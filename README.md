@@ -48,31 +48,13 @@ To play the game, run the following command:
 
 Use the arrow keys to slide the tiles. Combine tiles with the same number to create higher-numbered tiles. Try to reach the 2048 tile!
 
-## Contributing
+Author
+------
+Talha Sami
+GitHub: https://github.com/tlhasami
 
-Contributions are welcome! Please follow these steps to contribute:
+------------------------------------------------------------
 
-1. Fork the repository.
-2. Create a new branch:
-    ```sh
-    git checkout -b feature-branch
-    ```
-3. Make your changes and commit them:
-    ```sh
-    git commit -m "Description of changes"
-    ```
-4. Push to the branch:
-    ```sh
-    git push origin feature-branch
-    ```
-5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Inspired by the original [2048 game](https://github.com/gabrielecirulli/2048) by Gabriele Cirulli.
-- Thanks to the contributors and the open-source community.
-```
+License
+-------
+This project is intended for educational purposes only.
